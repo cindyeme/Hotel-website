@@ -293,9 +293,10 @@
     //  $(window).on('load', function () {
     //      aos_init();
     //  });
-    AOS.init({
-        duration: 1000,
-        once: true
-    });
+    
+    // AOS.init({
+    //     duration: 1000,
+    //     once: true
+    // });
 
 })(jQuery);
