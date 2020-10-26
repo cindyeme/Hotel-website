@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css" />
     <link rel="stylesheet" href="css/slicknav.min.css" />
     <link rel="stylesheet" href="Source/venobox/venobox.min.css" />
-    <link rel="stylesheet" href="Source/aos/aos.css" />
+    <!-- <link rel="stylesheet" href="Source/aos/aos.css" /> -->
     <!-- custom css -->
     <link rel="stylesheet" href="css/style.css" />
   </head>
@@ -434,7 +434,7 @@
     <script src="js/jquery.slicknav.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="Source/venobox/venobox.min.js"></script>
-    <script src="Source/aos/aos.js"></script>
+    <!-- <script src="Source/aos/aos.js"></script> -->
     <!-- custom js -->
     <script src="js/main.js"></script>
   </body>
