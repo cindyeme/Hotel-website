@@ -83,7 +83,7 @@
           <div class="logo mr-auto" style="border-radius: 50px">
             <!-- Uncomment below if you prefer to use a text logo -->
             <!-- <h1 class="text-light"><a href="index.html"><span>Cy Hotel</span></a></h1> -->
-            <a href="index.html"
+            <a href="index.php"
               ><img
                 src="./img/my_img/hotelTem logo.png"
                 alt="logo"
@@ -93,31 +93,31 @@
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
-              <li class=""><a href="index.html">Home</a></li>
-              <li><a href="about-us.html">About Us</a></li>
-              <li><a href="services.html">Services</a></li>
-              <li><a href="rooms.html">Rooms</a></li>
+              <li class=""><a href="index.php">Home</a></li>
+              <li><a href="about-us.php">About Us</a></li>
+              <li><a href="services.php">Services</a></li>
+              <li><a href="rooms.php">Rooms</a></li>
               <li class="drop-down">
                 <a href="">Pages</a>
                 <ul>
-                  <li><a href="spa.html">Spa</a></li>
+                  <li><a href="spa.php">Spa</a></li>
                   <!-- <li class="drop-down">
                     <a href="#">Room Details</a>
                     <ul>
-                      <li><a href="deluxe.html">Deluxe Rooms</a></li>
-                      <li><a href="family.html">Family Rooms</a></li>
-                      <li><a href="suite.html">Suite Rooms</a></li>
-                      <li><a href="premium.html">Premium Rooms</a></li>
+                      <li><a href="deluxe.php">Deluxe Rooms</a></li>
+                      <li><a href="family.php">Family Rooms</a></li>
+                      <li><a href="suite.php">Suite Rooms</a></li>
+                      <li><a href="premium.php">Premium Rooms</a></li>
                     </ul>
                   </li> -->
-                  <li class="active"><a href="kitchen.html">Kitchen</a></li>
-                  <li><a href="rentals.html">Rentals</a></li>
+                  <li class="active"><a href="kitchen.php">Kitchen</a></li>
+                  <li><a href="rentals.php">Rentals</a></li>
                 </ul>
               </li>
-              <li><a href="blog.html">Blog</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
+              <li><a href="blog.php">Blog</a></li>
+              <li><a href="contact.php">Contact Us</a></li>
 
-              <li class="get-started"><a href="index.html">Book Now</a></li>
+              <li class="get-started"><a href="index.php">Book Now</a></li>
             </ul>
           </nav>
           <!-- .nav-menu -->
@@ -135,7 +135,7 @@
             <div class="hero-text about_hero_text">
               <h1>KITCHEN</h1>
               <p>
-                <a href="index.html" class="border-bottom text-white"> Home</a>
+                <a href="index.php" class="border-bottom text-white"> Home</a>
                 <i class="fa fa-angle-double-right"></i>
                 <span class="">Kitchen</span>
               </p>
@@ -712,34 +712,34 @@
                 <div class="link d-md-flex text-white">
                   <ul>
                     <li class="list-unstyled">
-                      <a href="about-us.html">
+                      <a href="about-us.php">
                         <i class="fa fa-angle-right"></i>About Us
                       </a>
                     </li>
                     <li class="list-unstyled">
-                      <a href="services.html">
+                      <a href="services.php">
                         <i class="fa fa-angle-right"></i>Services
                       </a>
                     </li>
                     <li class="list-unstyled">
-                      <a href="rooms.html"> <i class="fa fa-angle-right"></i>Rooms </a>
+                      <a href="rooms.php"> <i class="fa fa-angle-right"></i>Rooms </a>
                     </li>
                     <li class="list-unstyled">
-                      <a href="blog.html"> <i class="fa fa-angle-right"></i>Blog </a>
+                      <a href="blog.php"> <i class="fa fa-angle-right"></i>Blog </a>
                     </li>
                   </ul>
                   <ul>
                     <li class="list-unstyled">
-                      <a href="spa.html"> <i class="fa fa-angle-right"></i>Spa </a>
+                      <a href="spa.php"> <i class="fa fa-angle-right"></i>Spa </a>
                     </li>
                     <li class="list-unstyled">
-                      <a href="kitchen.html"> <i class="fa fa-angle-right"></i>Kitchen </a>
+                      <a href="kitchen.php"> <i class="fa fa-angle-right"></i>Kitchen </a>
                     </li>
                     <li class="list-unstyled">
-                      <a href="rentals.html"> <i class="fa fa-angle-right"></i>Rentals </a>
+                      <a href="rentals.php"> <i class="fa fa-angle-right"></i>Rentals </a>
                     </li>
                     <li class="list-unstyled">
-                      <a href="contact.html">
+                      <a href="contact.php">
                         <i class="fa fa-angle-right"></i>Contact Us
                       </a>
                     </li>
